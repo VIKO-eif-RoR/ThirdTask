@@ -6,6 +6,6 @@
 1) SimpsonFormula - simpsono formules panaudojimas intergralo radimui, folder - SimpsonFormula
 2) ShellSort rikiavimo algoritmas - rikiuoja array pagal didėjimo tvarką, folder - ShellSort
 
-## Andrej Miskelovič
-1)caesar cipher OOP in folder Caesar
-2)LetterSwap OOP in folder letterswap
+## Andrej Miskelovič:
+1) caesar cipher OOP in folder Caesar
+2) LetterSwap OOP in folder letterswap
