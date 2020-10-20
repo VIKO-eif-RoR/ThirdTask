@@ -1,4 +1,5 @@
-require_relative "letterswap.rb"
+# frozen_string_literal: true
 
-cipher = String.new 
-puts("uppercaseLOWERCASE".swapcase)
+require_relative 'letterswap.rb'
+
+puts('uppercaseLOWERCASE'.swapcase)
